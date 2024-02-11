@@ -1,2 +1,2 @@
-PF-Project-Semester-01
+# PF-Project-Semester-01
 "Welcome to E-Dine: A Restaurant Management System developed in C++. This project comprises both Manager and Customer portals, allowing seamless operations such as order management, staff management, and online payment. Data is primarily stored in files, including menu (desserts, drinks, fast food), order history, system and manager credentials. Also project's executable (exe) and source code (cpp) files are included."
