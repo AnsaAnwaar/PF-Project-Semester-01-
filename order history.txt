@@ -1,0 +1,9 @@
+			ORDER HISTORY
+
+Name: Hameed
+Phone: 02325423632
+Total Bill: 1000
+
+Name: ali
+Phone: 03220576657
+Total Bill: 2100
